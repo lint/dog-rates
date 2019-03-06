@@ -6,6 +6,6 @@ I used twitter's advanced search to obtain more than 3200 tweets (the maximum nu
 
 Run get_tweets.py first, then create_frames.py. The resulting frames were used to create a video with ffmpeg. This was the command I used.
 
-'''
+```
 sudo ffmpeg -f image2 -r 48 -i ~/DogRateFrames/frame%03d.png -vcodec mpeg4 -y dog_rates.mp4
-'''
+```
