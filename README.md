@@ -1,4 +1,4 @@
-# dogrates-rates
+# dog-rates
 
 Plots the distribution of the ratings of [@dog_rates](https://twitter.com/dog_rates/) (aka WeRateDogs™) over time.
 
