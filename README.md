@@ -1,6 +1,6 @@
 # dogrates-rates
 
-Plots the distribution of the ratings of[@dog_rates](https://twitter.com/dog_rates/) (aka WeRateDogs™) over time.
+Plots the distribution of the ratings of [@dog_rates](https://twitter.com/dog_rates/) (aka WeRateDogs™) over time.
 
 I used twitter's advanced search to obtain more than 3200 tweets (the maximum number of tweets obtainable through the api). Unfornately some tweets are still missing, as that search was unable to retrieve them all. It still gives a decent idea of how the given ratings change over time. 
 
