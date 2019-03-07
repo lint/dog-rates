@@ -31,13 +31,13 @@ for string in tweets:
 
         #Branching from the slash until it hits a space
         for a in range(len(split[part])-1,-1,-1):
-            if split[idkman][a] != " ":
+            if split[part][a] != " ":
                 leftStr = split[part][a] + leftStr
             else:
                 break
 
         for a in range(len(split[part+1])):
-            if split[idkman+1][a] != " ":
+            if split[part+1][a] != " ":
                 rightStr+=split[part+1][a]
             else:
                 break
