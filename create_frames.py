@@ -7,6 +7,7 @@ import json
 
 #Note: Tabbing is inconsistent in some places (mostly double width for the entire script)
 #This is due to mixing work done on Pythonista (iOS mobile app) and work done on my pc
+#I just can't be bothered to change it 
 
 #Loading Data
 data  = []
